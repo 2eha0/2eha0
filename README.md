@@ -20,7 +20,7 @@ Visit my web site 👉🏻 [zehaonotes.top](https://zehaonotes.top)
 - 👨🏻‍💻 Working at [Kong](https://konghq.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: zehao93@outlook.com;
-- 👉🏻 Visit my web site [zehaonotes.top](https://zehaonotes.top)
+- 👉🏻 Visit my web site [ZehaoNotes.top](https://zehaonotes.top)
 
 ![](https://komarev.com/ghpvc/?username=2eha0&color=brightgreen)
 
