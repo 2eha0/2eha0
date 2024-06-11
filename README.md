@@ -7,6 +7,8 @@
 
 I am a full-stack engineer. I am familiar with React and its ecosystem, and I develop back-end using Node.
 
+Visit my web site 👉🏻 [zehaonotes.top](https://zehaonotes.top)
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -15,9 +17,10 @@ I am a full-stack engineer. I am familiar with React and its ecosystem, and I de
 
 - ❤️ I love Coding, and anything elegant;
 - 🌱 I’m currently learning Vue;
-- 🤔 I’m looking for a Full-time job;
+- 👨🏻‍💻 Working at [Kong](https://konghq.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: zehao93@outlook.com;
+- 👉🏻 Visit my web site [zehaonotes.top](https://zehaonotes.top)
 
 ![](https://komarev.com/ghpvc/?username=2eha0&color=brightgreen)
 
