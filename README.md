@@ -7,8 +7,6 @@
 
 I am a full-stack engineer. I am familiar with React and its ecosystem, and I develop back-end using Node.
 
-Visit my web site 👉🏻 [zehaonotes.top](https://zehaonotes.top)
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
