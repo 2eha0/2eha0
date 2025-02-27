@@ -18,7 +18,7 @@ I am a full-stack engineer. I am familiar with React and its ecosystem, and I de
 - 👨🏻‍💻 Working at [Kong](https://konghq.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: zehao93@outlook.com;
-- 👉🏻 Visit my web site [ZehaoNotes.top](https://zehaonotes.top)
+- 👉🏻 Visit my web site [ZehaoNotes](https://zehao.is-a.dev/)
 
 ![](https://komarev.com/ghpvc/?username=2eha0&color=brightgreen)
 
