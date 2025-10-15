@@ -14,7 +14,7 @@ I am a full-stack engineer. I am familiar with React and its ecosystem, and I de
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - ❤️ I love Coding, and anything elegant;
-- 🌱 I’m currently learning Vue;
+- 🌱 I’m currently learning **AI Agent** development;
 - 👨🏻‍💻 Working at [Kong](https://konghq.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: zehao93@outlook.com;
